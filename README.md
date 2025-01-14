@@ -1,2 +1,2 @@
 # llm-kg-survey
-reply
+survey record
